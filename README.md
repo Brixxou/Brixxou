@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/star.jpg" width="100%" alt="star" />
+      <img src="./assets/typing.gif" width="100%" alt="typing" />
       <br>
       <div align="center">
 
@@ -74,7 +74,5 @@ motto: "build. deploy. iterate."
 ```
 ░▒▓ built different. deployed everywhere. ▓▒░
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001133,100:0066ff&height=80&section=footer" width="100%"/>
 
 </div>
