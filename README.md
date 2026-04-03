@@ -1,39 +1,16 @@
 <div align="center">
 
-```
-@@@@@@@@@@@@@@@@@@%@@@@@@@%@@@@@@@@@%@@@%@%@@%%@%%%@@%%%@%%%%%%%%%%
-@@@@@@@@@@@%@@@@@@@@@@@@%@@@@@@@@@@@@@@@@%%%%%%%%%@@%%%@%%%%%%%%%%%%
-@@@@@@@@@@@@@@@@@@@@@@@@+@@%@%@*@@@%@@@@@%%%@@%%%%%%%%%+%@+%%%%%%%%
-@@@@@@@@@@@@@@@@%%%@@%%*%%%@%%@@@@%@@@@@@%%%%%%%%%%%%%@@%%%%%%%%%%%%
-@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%#%@@%@%%@%%%%%%%%%%%%%%%%%%%%%%%%%%#
-%@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%@%@%@%@%@@@%%%%@%%%%#%%%%%%%%%%%%%*
-@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%*%%%%%%%%@%%%%%%%%%%%%%%%%%%@
-@@@@@@@@@@@@%@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%*%%%%%%%%%%%%%%%%%@
-@@@@@@@%@@@@%@@@%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%%%%
-@@@@@@@@@@@@@@@@@@@%%%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%%#%%%%
-@@@@@@@@@@@@@@@@@@%@%%%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%####
-@@@@@@@@@@@@@@@@@@%%@%%%%%%%%%@%%%%%@%%%%%%%%%%%%%%%%#%%%%%%%%####*
-@@@@@@@@@@@@@@@@@%@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%###
-@@@@@@@@@@@@@@@@@@%@%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%%%%%%%%%%%##%##*#
-@@@@@@@@@@@@@@@@@@%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##%##
-@@@@@@@%@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*%%##*##
-@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%-%%%%%%%%%%%%%%%%%%%%%#####
-@@@@@@@@@@@@@@@@@@@%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%###
-@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%%%%%%
-@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%%%%%%
-@@@%@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%%%%%*%%###
-@@@%@%%%%@@@@@@@@@%%%%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%*%%
-@@@@@%@%%#%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%%%%%##%%#
-@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%##%
-@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%######
-@@@@%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%###*#####%####
-@@%%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%########%######*####
-@@%@@%%%%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%##########*##*#########
-```
+<img src="./assets/banner.jpg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&repeat=true&width=450&height=40&lines=brixxou;DevOps+%7C+AI;builder." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:001133,100:0066ff&height=1" width="100%"/>
+
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=4000&pause=2000&color=6D28D9&center=true&vCenter=true&repeat=true&width=500&height=20&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+building+infrastructure+that+doesn't+sleep+%E2%96%91%E2%96%92%E2%96%93%E2%96%88" alt="Typing SVG" />
+
+<img src="./assets/star.jpg" width="80"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=0088FF&center=true&vCenter=true&repeat=true&width=450&height=45&lines=brixxou;DevOps+%7C+AI;builder." alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=4000&pause=2000&color=00CCFF&center=true&vCenter=true&repeat=true&width=500&height=20&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+building+infrastructure+that+doesn't+sleep+%E2%96%91%E2%96%92%E2%96%93%E2%96%88" alt="Typing SVG" />
 
 </div>
 
@@ -49,13 +26,13 @@ motto: "build. deploy. iterate. repeat."
 
 <div align="center">
 
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2dd4bf)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=2dd4bf)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=2dd4bf)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2dd4bf)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=6d28d9)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=6d28d9)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=6d28d9)
+![Docker](https://img.shields.io/badge/Docker-000814?style=for-the-badge&logo=docker&logoColor=0088ff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000814?style=for-the-badge&logo=kubernetes&logoColor=0088ff)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-000814?style=for-the-badge&logo=googlecloud&logoColor=0088ff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000814?style=for-the-badge&logo=githubactions&logoColor=0088ff)
+![Python](https://img.shields.io/badge/Python-000814?style=for-the-badge&logo=python&logoColor=00ccff)
+![JavaScript](https://img.shields.io/badge/JavaScript-000814?style=for-the-badge&logo=javascript&logoColor=00ccff)
+![React](https://img.shields.io/badge/React-000814?style=for-the-badge&logo=react&logoColor=00ccff)
 
 </div>
 
@@ -66,7 +43,7 @@ motto: "build. deploy. iterate. repeat."
 <tr>
 <td width="50%" valign="top">
 
-### DevSecOps Pipeline
+### <img src="./assets/star.jpg" width="16"/> DevSecOps Pipeline
 ```
 ├── security-first CI/CD
 ├── automated vulnerability scanning
@@ -78,7 +55,7 @@ motto: "build. deploy. iterate. repeat."
 </td>
 <td width="50%" valign="top">
 
-### Dual Agent
+### <img src="./assets/star.jpg" width="16"/> Dual Agent
 ```
 ├── multi-agent AI system
 ├── autonomous task execution
@@ -105,13 +82,13 @@ motto: "build. deploy. iterate. repeat."
 <div align="center">
 
 <a href="https://lesage.agency">
-<img src="https://img.shields.io/badge/lesage.agency-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=2dd4bf" alt="Website"/>
+<img src="https://img.shields.io/badge/lesage.agency-000814?style=for-the-badge&logo=firefoxbrowser&logoColor=0088ff" alt="Website"/>
 </a>
 
 ```
 ░▒▓ built different. deployed everywhere. ▓▒░
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:6d28d9&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001133,100:0066ff&height=80&section=footer" width="100%"/>
 
 </div>
